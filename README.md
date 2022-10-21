@@ -10,7 +10,7 @@
 
 ## 📚 Seções
 
-O site SERÁ composto por cinco seções:
+O site SERÁ ~é~ composto por cinco seções:
 
 - **Home:** Nele temos uma breve apresentação;
 - **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
@@ -23,7 +23,7 @@ O site SERÁ composto por cinco seções:
 
 ## 💼 Tecnologias utilizadas
 
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+Para o desenvolvimento deste site VOU UTILIZAR ~utilizei~ as seguintes tecnologias:
 
 - HTML;
 - Sass;
